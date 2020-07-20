@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [
+      {
+        "id": 1,
+        "title": "手绘",
+        "imgUrl": "https://dummyimage.com/32x32/ff6a00/fff"
+      },
+      {
+        "id": 2,
+        "title": "社会热点",
+        "imgUrl": "https://dummyimage.com/32x32/ff6a00/fff"
+      }
+    ],
+    "articleList": [
+      {
+        "id": 1,
+        "title": "『美食』：妈妈的绝佳手艺",
+        "desc": "今天向大家介绍一个烧螃蟹的方法~由妈妈口述我简单记录。这种方法烧出来的螃蟹，带着甜甜的口感，爱好吃甜的人当然不能错过啦！可好吃了呢。 简单步...",
+        "imgUrl": "https://dummyimage.com/150x100/C0C0C0/fff&text=example"
+      },{
+        "id": 2,
+        "title": "『美食』：妈妈的绝佳手艺",
+        "desc": "今天向大家介绍一个烧螃蟹的方法~由妈妈口述我简单记录。这种方法烧出来的螃蟹，带着甜甜的口感，爱好吃甜的人当然不能错过啦！可好吃了呢。 简单步...",
+        "imgUrl": "https://dummyimage.com/150x100/C0C0C0/fff&text=example"
+      },{
+        "id": 3,
+        "title": "『美食』：妈妈的绝佳手艺",
+        "desc": "今天向大家介绍一个烧螃蟹的方法~由妈妈口述我简单记录。这种方法烧出来的螃蟹，带着甜甜的口感，爱好吃甜的人当然不能错过啦！可好吃了呢。 简单步...",
+        "imgUrl": "https://dummyimage.com/150x100/C0C0C0/fff&text=example"
+      },{
+        "id": 4,
+        "title": "『美食』：妈妈的绝佳手艺",
+        "desc": "今天向大家介绍一个烧螃蟹的方法~由妈妈口述我简单记录。这种方法烧出来的螃蟹，带着甜甜的口感，爱好吃甜的人当然不能错过啦！可好吃了呢。 简单步...",
+        "imgUrl": "https://dummyimage.com/150x100/C0C0C0/fff&text=example"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": 1,
+        "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+      },
+      {
+        "id": 2,
+        "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      },
+      {
+        "id": 3,
+        "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+      },
+      {
+        "id": 4,
+        "imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+      }
+    ]
+  }
+}
