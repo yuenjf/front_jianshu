@@ -1,4 +1,7 @@
-# 使用 React 搭建的简书实战
+# project_jianshu
+
+## 介绍
+使用 React 实现简书项目
 
 ## 学习笔记
 - styled-component
